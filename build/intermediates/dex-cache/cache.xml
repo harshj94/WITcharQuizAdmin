@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_d7570e2ffad3a519979a9c7b56857ca51258fbd5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_ecc82f4d051206718532e4b18b3839a87793aa15\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\libs\apache-commons-net.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="765820f6052742ebad5bcd832e44bd5a6dc2b267">
+        <dex dex="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\transforms\dex\debug\folders\1000\2\apache-commons-net_281e02b06eb25ed16cdd4978a787f580501db12b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harsh Jain\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_245082744cda67b3811467410e7a4e74c635d9db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_e0aa1ec05e2fb13dee43460bcaf504f5fac9c4bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_a4eb11082975edbf8fc6542d8c53f6fe149a7b4d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f64a3183797a09aad59276efb15b295112a49177">
+        <dex dex="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c072ee86fbcefeb19aa4ab59f3e35137bdc5e9a9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harsh Jain\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_399494706161ab822068eef3d4c281bb1fe26f34\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_1e560dc923e0da2d9122d8df7aab4314853ea96d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7ebfdaa9653052ae01df39e83d2b99ced5616fc4">
+        <dex dex="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b5ad99c3ef75bd40813d1a090ace739888c5fd96\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_a4ea006b60a31b1ef1f45205b3aa598eb0850127\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Harsh Jain\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\Harsh Jain\AndroidStudioProjects\WITcharQuizAdmin\app\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_dcfab9ef25dd1f326d3c54b6cce200ea2c72aa8d\classes.dex" />
+    </item>
+
+</items>
